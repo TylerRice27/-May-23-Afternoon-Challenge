@@ -1,1 +1,10 @@
 /* BASIC STYLES HERE */
+.track {
+    width: 100px;
+    height: 50px;
+    margin: 0px;
+}
+
+.street {
+    margin: 57px;
+}

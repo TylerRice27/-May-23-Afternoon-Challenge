@@ -1,7 +1,8 @@
-import { ValuesController } from "./Controllers/RacerController.js";
+import { RacerController } from "./Controllers/RacerController.js";
 
 class App {
-  valuesController = new ValuesController();
+  // valuesController = new ValuesController();
+  racerController = new RacerController()
 }
 
 window["app"] = new App();
