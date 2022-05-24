@@ -11,8 +11,8 @@ export class Racer {
 
     get Template() {
         return `
-       <div class="street row bg-dark">
-        <div class="track col-md-12 bg-dark">
+       <div class="row">
+        <div class="track m-3 col-md-12 bg-dark">
           <span class="racer icon fs-2">
             "🐯"
           </span>
